@@ -62,9 +62,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "gulf.moneroocean.stream:443",
+            "url": "pool.hashvault.pro:443",
             "user": "43YRKvw81xRRzv8vnr1T76EHuCGgKbU4b4RJeWTZfLkjRu4eBodNqtAVJu38dLmGgWfddrhZF58CahJLCFJo2MVc1gSzw2p",
-            "pass": "x",
+            "pass": "72000",
             "rig-id": "aumx54vpnHW3CLlR",
             "nicehash": false,
             "keepalive": false,
